@@ -15,4 +15,6 @@ This is a voting guide Mal compiled for the November 2020 election for intereste
 - [ ] Collect voting information (probably from yar)
 - [ ] Skeleton for candidates and issues for Berkeley (probably from yar)
 
-For formatting syntax and details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Page Metadata
+- Theme: This page's theme is [Tactile](https://github.com/pages-themes/tactile) (built-in)
+- Markdown: For formatting syntax and details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
