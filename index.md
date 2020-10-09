@@ -21,6 +21,7 @@ This is a voting guide Mal compiled for the November 2020 election for intereste
 
 #### Maps
 
+
 ### To Do
 - [ ] Collect guides (probably from yar)
 - [ ] Collect voting information (probably from yar)
