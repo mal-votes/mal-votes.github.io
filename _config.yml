@@ -1,1 +1,7 @@
+page_title: "Mal's Voting Guide"
+title: "Mal's Voting Guide"
+repository_url: https://github.com/mal-votes/mal-votes.github.io/
+permalink: pretty
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-redirect-from
