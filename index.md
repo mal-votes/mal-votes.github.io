@@ -1,4 +1,3 @@
-## Welcome to Mal Votes
 ### November 2020, Berkeley, California
 
 This is a voting guide Mal compiled for the November 2020 election for interested friends and family.
