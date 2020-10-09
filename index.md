@@ -1,4 +1,6 @@
+## Main Voting Guide page
 ### November 2020, Berkeley, California
+**Mal's Guides**
 
 This is a voting guide Mal compiled for the November 2020 election for interested friends and family.
 
