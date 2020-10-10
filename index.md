@@ -1,7 +1,5 @@
 # Main Voting Guide page
 ## November 2020, Berkeley, California
-**Mal's Guides**
-
 This is a voting guide Mal compiled for the November 2020 election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
 
 ## Voting Information
@@ -10,30 +8,30 @@ This is a voting guide Mal compiled for the November 2020 election for intereste
 * Ballots must be postmarked by election day: Tuesday, November 3
 * Ballots must be received by Friday, November 6
 
-### November 2020 Voting Guide and Recommendations
+## November 2020 Voting Guide and Recommendations
 In order listed by ballot.
-#### Federal
+### Federal
 * **President: Biden/Harris** Biden has problems. Harris has [problems](https://docs.google.com/document/d/1019qVbEoKAd0-U52NVvJ-YC9KxW9GxosH3s3_pMqA2c/edit?usp=sharing). But they're the best choice we have in the face of the DEVIL INCARNATE. So **VOTE FOR THEM NONETHELESS!!!**
 * **House: Barbara Lee** She's many times incumbent and is probably too comfortable, but the only alternative for me is write-ins.
 
-#### California
+### California
 * **Senate District 9: Skinner** Skinner has made a lot of enemies but also has a lot of Union and teacher support. Hold nose. Vote.
 * **Assembly District 15: Wicks or Brink** Some say Wicks takes dirty money, but she also has support from Sierra Club and Unions. Brink states no party affiliation.
-* **Superior Court Judge Office #2: Elena Condes** Experienced, wide endorsements.
+* **Superior Court Judge Office #2: Condes** Experienced, wide endorsements.
 
-#### Berkeley
+### Berkeley
 * **Rent Stabilization Board, Multichoice (5): Simon-Weisberg, Mendonca, Kelley, Walker, Johnson** Sierra Club and East Bay for Everyone endorsements.
 * **School Director, BUSD: Babbit, Chang** Babbit is a Black woman. Chang has key endorsements, among them, Mayor Jesse, who is not my favorite, but my hope is it indicates Chang is influential enough to get endorsements. Also there was a [student op-ed](https://berkeleyhighjacket.com/2020/opinion/mike-chang-is-the-best-candidate-for-berkeley-school-board/) that favored him at BHS's student paper.
 
-#### Alameda County
-* **Transit At-Large: Victoria Fierce** Yar: "I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does.""
-* **Transit Ward 1: Jovanka D. Beckles** Good endorsements.
+### Alameda County
+* **Transit At-Large: Victoria Fierce** Yar: "I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does."
+* **Transit Ward 1: Beckles** Good endorsements. Remember voting for her in a prior election.
 
-#### East Bay / Regional
-* **BART District 7: Lateefah Simon** Yar: "BART Police are so afraid of this blind black incumbent, they send her death threats and are running their own candidate (Kidd) to represent cops." Anyone the cops hate is pretty much a friend of ours.
+### East Bay / Regional
+* **BART District 7: Simon** Yar: "BART Police are so afraid of this blind black incumbent, they send her death threats and are running their own candidate (Kidd) to represent cops." Anyone the cops hate is pretty much a friend of ours.
 * **EBRP Ward 1: Echols** Echols has some good backers and La Force is problematic.
 
-#### California
+### California
 * **Prop 14: YES** The downside is that it adds to state debt without providing for funding, but it's funding research, which I tend to favor.
 * **Prop 15: YES** Yar: "Large commercial properties should pay taxes." Provides funds for schools.
 * **Prop 16: YES** Yar: "Legalize affirmative action."
@@ -43,15 +41,15 @@ In order listed by ballot.
 * **Prop 20: NO** Longer prison sentences. NOPE.
 * **Prop 21: YES** Yar: "Legalize rent control."
 * **Prop 22: NO** Yar: "Uber, Lyft & Doordash just want to keep exploiting their workers." They got MADD's endorsement (been seeing commercials from MADD on YouTube), which sucks for us. But NO.
-* **Prop 23: NO** Yar: "I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)" We also have friends in California on Dialysis who also say emphatically NO. Even an ex-SEIU member (the main union pro-23).
+* **Prop 23: NO** Yar: "I'm loathe to side with bosses over unions, but must accept that in this case, the prop is a bullshit sideshow which would be bad for patients. [source](https://www.rsnhope.org/rsn-blog/no-pro-23/) [2](https://www.nytimes.com/2019/08/02/health/kidney-dialysis-kickbacks.html) [3](https://www.cmadocs.org/newsroom/news/view/ArticleId/38532/CMA-Board-of-Trustees-votes-to-oppose-dialysis-ballot-initiative)" We also have friends in California on Dialysis who also say emphatically NO. Even an ex-SEIU member (the main union pro-23). Also it's essentially the same as Prop 8 from 2018 that we already voted no on.
 * **Prop 24: NO** Yar: "Pretends to be pro-privacy, but waters down privacy laws."
 * **Prop 25: YES** Gets rid of money bail, which may be a great improvement. But assessment system may suck, and we don't know yet.
 
-#### Alameda County
+### Alameda County
 * **Measure V: YES** I always vote for higher taxes.
-* **Measure W: YES** I alwyas vote for higher taxes.
+* **Measure W: YES** I always vote for higher taxes.
 
-#### Berkeley
+### Berkeley
 -  Some are multi-choice or ranked choice. Full slate for each is recommended, but if we really feel like there is no choice, only vote in order for the ones we really want. Doubling votes (in e.g. 1st then 2nd) doesn't affect the voting in any way, so if you only have one candidate you like, vote for them first and leave the other columns blank. How [Ranked Choice Voting Works](https://www.acgov.org/rov/rcv/faq.htm).
 -  **Measure FF: YES** East Bay for Everyone. $0.10/sq foot tax for improvements to fund emergency services $8.5M/year.
 -  **Measure GG: YES** East Bay for Everyone and Sierra Club. Tax on rideshare services to fund Berkeley municipal services.
@@ -64,7 +62,7 @@ In order listed by ballot.
 -  **Mayor: Ranked: First choice: Hsiung, Second Choice: Arreguin** Arreguin will probably win, but I want to give Hsiung, whose proposed policies are much better in my opinion, _something_.
 -  **City Council, District 3: Ranked: First choice: Matthews, Second choice: Martinez** Almost arbitrary choice. I think Bartlett is complacent. Matthews is a Black woman. Martinez is a Latino man.
 
-#### Other Voting Guides
+## Other Voting Guides
 {:.wrapped-list}
 Straight up copy from Yar.
 * [AAPI FORCE-EF](https://aapiforce-ef.vote/wp-content/uploads/2020/10/English-Voter-Guide-2.pdf)
@@ -152,16 +150,16 @@ Straight up copy from Yar.
 * [Yes on 15](https://www.yes15.org/)
 * [YIMBY Action](https://yimbyaction.org/endorsements/)
 
-#### Maps
+## Maps
 maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [CA Senate](http://www.legislature.ca.gov/Final_2013_2014_Senate_Map_v2.pdf), [CA Assembly](http://www.legislature.ca.gov/assemblydistricts.html), [AC Supervisor](http://www.acgov.org/board/documents/districtmap.pdf), [AC Transit](http://www.actransit.org/wp-content/uploads/FinalWard.pdf), [Oakland Council](http://gisapps1.mapoakland.com/councildistricts/), [BART](https://www.bart.gov/about/bod/districts), [Peralta](https://web.peralta.edu/trustees/files/2011/06/Area-Map-and-Descriptions.pdf), [EBMUD](https://www.ebmud.com/about-us/board-directors/your-board-members/) & [EBRP](https://www.ebparks.org/civicax/filebank/blobdload.aspx?blobid=30073) districts
 
-### Previous Voting Research/Guides
+## Mal's Previous Voting Research/Guides
 - [2016 Voting Research](https://docs.google.com/spreadsheets/d/1LOuSrzRurlJOuz2H0Wxok_iJbcvRVOI-leJ8yw8igiI/edit?usp=sharing)
 - [2018 Guide](https://docs.google.com/spreadsheets/d/1zo7_JvUKtLWjn-Rjp0k6xhlu5UHjPLqG_AknOZKjlBc/edit?usp=sharing)
 
-### Page Metadata
+## Page Metadata
 - Attribution:<br />The structure and most of the information in this guide is copied from [Yar](https://github.com/yar-votes) and [Yar's Guide](https://yar-votes.github.io/). Voting advice is from my research and opinion, though if I'm reusing Yar's advice, I've tried to be careful to quote.
-- This page manually forked from [Yar's Guide](https://yar-votes.github.io/).
+- This page manually forked (by copy/paste) from [Yar's Guide](https://yar-votes.github.io/).
 - License:<br />![Creative Commons License - by-nc-sa-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)<br />This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Because of the nature of the license and the license requirements (Share-Alike) I cannot license this information for commercial use.
-- Theme: This page's theme is [Tactile](https://github.com/pages-themes/tactile) (built-in)
+- Theme: Default for GitHub Pages (not specified in config files).
 - Markdown: For formatting syntax and details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
