@@ -24,7 +24,7 @@ In order listed by ballot.
 * **School Director, BUSD: Babbit, Chang** Babbit is a Black woman. Chang has key endorsements, among them, Mayor Jesse, who is not my favorite, but my hope is it indicates Chang is influential enough to get endorsements. Also there was a [student op-ed](https://berkeleyhighjacket.com/2020/opinion/mike-chang-is-the-best-candidate-for-berkeley-school-board/) that favored him at BHS's student paper.
 
 ### Alameda County
-* **Transit At-Large: Victoria Fierce** Yar: "I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does."
+* **Transit At-Large: Fierce** Yar: "I'll always side-eye her housing politics & history with SFBARF/YIMBY but this might be a good fit for her. Dollene Jones would be my first choice if she championed free rides the way Fierce does."
 * **Transit Ward 1: Beckles** Good endorsements. Remember voting for her in a prior election.
 
 ### East Bay / Regional
