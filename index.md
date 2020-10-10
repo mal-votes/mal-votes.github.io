@@ -55,7 +55,7 @@ In order listed by ballot.
 
 #### Berkeley
 * Some are multi-choice or ranked choice. Full slate for each is recommended.
-** How [Ranked Choice Voting Works](https://www.acgov.org/rov/rcv/faq.htm).
+ * How [Ranked Choice Voting Works](https://www.acgov.org/rov/rcv/faq.htm).
 * **Measure FF: YES** East Bay for Everyone. $0.10/sq foot tax for improvements to fund emergency services $8.5M/year.
 * **Measure GG: YES** East Bay for Everyone and Sierra Club. Tax on rideshare services to fund Berkeley municipal services.
 * **Measure HH: YES** Sierra Club. Increase tax on utilities with exemptions for Berkeley municpal services.
