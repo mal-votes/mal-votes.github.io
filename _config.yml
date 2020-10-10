@@ -2,6 +2,5 @@ title: "Mal's Voting Guide"
 description: "Mal's voting guides hosted on GitHub web pages."
 repository_url: https://github.com/mal-votes/mal-votes.github.io/
 permalink: pretty
-remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-redirect-from
