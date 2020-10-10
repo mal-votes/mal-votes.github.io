@@ -23,7 +23,7 @@ In order listed by ballot.
 
 #### Berkeley
 * Some are multi-choice or ranked choice. Full slate for each is recommended.
-** How [Ranked Choice Voting Works](https://www.acgov.org/rov/rcv/faq.htm).
+ * How [Ranked Choice Voting Works](https://www.acgov.org/rov/rcv/faq.htm).
 * **Rent Stabilization Board, Multichoice (5): Simon-Weisberg, Mendonca, Kelley, Walker, Johnson** Sierra Club and East Bay for Everyone endorsements.
 * **School Director, BUSD: Babbit, Chang** Babbit is a Black woman. Chang has key endorsements, among them, Mayor Jesse, who is not my favorite, but my hope is it indicates Chang is influential enough to get endorsements.
 
