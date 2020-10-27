@@ -26,7 +26,7 @@ Reminder to #unlearn-racism for compensation:<br />
 `/remind #unlearn-racism Time to step up. Compensate our POC, allies. https://bit.ly/30xJtdN every monday, wednesday, and friday at 3PM PT`
 
 More Complex Draft reminder to #unlearn-racism:<br />
-`/remind @kalessin Reminder poll: Have you compensated/paid reparations to the POC in your communities yet today?`<br />
+`/remind #unlearn-racism Reminder poll: Have you compensated/paid reparations to the POC in your communities yet today?`<br />
 `:heavy_dollar_sign: Yes, financially to PoC on this Slack`<br />
 `:rooting_for_you: Yes, nonfinancially (skill sharing, networking, etc) to PoC on this Slack`<br />
 `:money_with_wings: Yes, financially to PoC not on this Slack`<br />
