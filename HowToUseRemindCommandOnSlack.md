@@ -32,7 +32,7 @@ More Complex Draft reminder to #unlearn-racism:<br />
 `:money_with_wings: Yes, financially to PoC not on this Slack`<br />
 `:handshake: Yes, nonfinancially (skill sharing, networking, etc) to PoC not on this Slack`<br />
 `:noted: No, not yet`<br />
-``<br />
+<br />
 `Feel free to talk about the reparations you’ve paid in :thread: !`<br />
-``<br />
+<br />
 `https://bit.ly/30xJtdN every monday, wednesday, and friday at 3pm PT`<br />
