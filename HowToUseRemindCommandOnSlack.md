@@ -27,15 +27,15 @@ Reminder to #unlearn-racism for compensation:<br />
 
 More Complex Draft reminder to #unlearn-racism:<br />
 `/remind #unlearn-racism Reminder poll:`<br />
-``<br />
+<br />
 `Have you compensated/paid reparations to the POC in your communities yet today?`<br />
-``<br />
+<br />
 `:heavy_dollar_sign: Yes, financially to PoC on this Slack`<br />
 `:money_with_wings: Yes, financially to PoC not on this Slack`<br />
 `:rhizomes: Yes, nonfinancially (skill sharing, networking, etc) to PoC on this Slack`<br />
 `:retweet: Yes, nonfinancially (skill sharing, networking, etc) to PoC not on this Slack`<br />
 `:notebook: No, not yet`<br />
-``<br />
+<br />
 `Feel free to talk about the reparations you've paid in :thread: !`<br />
-``<br />
+<br />
 `Get started here: https://bit.ly/30xJtdN every monday, wednesday, and friday at 3pm PT`<br />
