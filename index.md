@@ -1,5 +1,5 @@
 # Main Voting Guide page
-## November 2020, Berkeley, California
+## June 2022, Berkeley, California
 This is a voting guide Mal compiled for the June 2022 election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
 
 ## Voting Information
