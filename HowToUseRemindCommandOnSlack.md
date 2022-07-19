@@ -18,7 +18,7 @@ Then to take to #unlearn-racism:
 
 Remember to use `/remind list` periodically to make sure you don't have any unintended reminders running. From that Slackbot response, you can delete reminders you no longer want.
 
-(Note: for copy/pasting directly from this document to Slack, be aware that the marked up text won't work properly with Slack. You need to copy/paste through an intermediary text editor to get the formatting out of the string so the command will work properly.)
+**(NOTE: for copy/pasting directly from this document to Slack, be aware that the marked up text won't work properly with Slack. You need to copy/paste through an intermediary text editor to get the formatting out of the string so the command will work properly.)**
 
 ## Specific reminders
 ### LGBTQ in Tech Slack
