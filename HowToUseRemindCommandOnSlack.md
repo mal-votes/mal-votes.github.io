@@ -1,4 +1,4 @@
-# Using Remind Command
+# Using the Remind Command
 Use the `/remind` command to set reminders for people and in channels. 
 
 You can also use `/remind list` to see and delete reminders you have already set up. To change a reminder, you must delete and recreate it.
