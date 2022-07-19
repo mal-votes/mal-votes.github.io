@@ -41,7 +41,7 @@ More Complex Draft reminder to #unlearn-racism:<br />
 `Get started here: https://bit.ly/30xJtdN every monday, wednesday, and friday at 3pm PT`<br />
 
 Reminder to #jobs for various purposes:<br />
-`/remind #jobs Reminder: Reminder! Look at the spreadsheet in the topic for jobs. If you have some to post, post there too, and pull any jobs that are filled, please!`<br />
+`/remind #jobs Reminder! Look at the spreadsheet in the topic for jobs. If you have some to post, post there too, and pull any jobs that are filled, please!`<br />
 <br />
 `- (Job-channel switchboard):`<br />
 `- If you're a recruiter or part of the hiring process, post to #jobs and use the ?jobs-info Slackbot response as a template. Use the emoji, please, it helps members parse your posting.`<br />
