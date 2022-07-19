@@ -47,4 +47,4 @@ Reminder to #jobs for various purposes:<br />
 `- If you're a recruiter or part of the hiring process, post to #jobs and use the ?jobs-info Slackbot response as a template. Use the emoji, please, it helps members parse your posting.`<br />
 `- #jobs is also open to community members to discuss active posts, and seeking work, of course!`<br />
 `- If you're a community member posting about a job at a company you like or work for, consider #jobs-community.`<br />
-`- If you want to discuss job seeking, career development, hiring practices, you're probably looking for #jobs-career.`<br />
+`- If you want to discuss job seeking, career development, hiring practices, you're probably looking for #jobs-career. every Tuesday and Thursday at 6AM PDT`<br />
