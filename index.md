@@ -114,3 +114,4 @@ maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressi
 - License:<br />![Creative Commons License - by-nc-sa-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)<br />This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Because of the nature of the license and the license requirements (Share-Alike) I cannot license this information for commercial use.
 - Theme: Default for GitHub Pages (not specified in config files).
 - Markdown: For formatting syntax and details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Guide on [How to use the Remind command on slack](HowToUseRemindCommandOnSlack/).
