@@ -4,3 +4,4 @@ repository_url: https://github.com/mal-votes/mal-votes.github.io/
 permalink: pretty
 plugins:
   - jekyll-redirect-from
+  - jemoji
