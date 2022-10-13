@@ -102,3 +102,4 @@ maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressi
 
 ## Other Guides
 - Guide on [How to use the Remind command on slack](HowToUseRemindCommandOnSlack/).
+- Guide to [Enabling Jemoji emoji engine in GitHub Pages](jemoji/), which don't woerk with regular emoji that works in GitHub proper.
