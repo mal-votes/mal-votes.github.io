@@ -1,91 +1,67 @@
 # Main Voting Guide page
-## November 2022, Berkeley, California
-This is a voting guide Mal compiled for the November 2022 election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
+## March 2024, Berkeley, California (Alameda County)
+This is a voting guide Mal compiled for the March 2024 election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
 
 ## Voting Information
-From [acvote.org](https://www.acvote.org/election-information/elections?id=248) - More detail from [SOS](https://www.sos.ca.gov/elections/upcoming-elections/general-election-nov-8-2022/key-dates-deadlines)
-* First day to mail Voter Information Pamphlets	- September 29, 2022
-* First day of mailing Vote By Mail Ballots and Early Voting - October 10, 2022
-* Close of Registration Period - October 24, 2022
-* Opening and Processing of Vote By Mail Ballots - October 25, 2022
-* Last day to request a Vote By Mail Ballot - November 01, 2022
-* Election Day - November 08, 2022
+From [acvote.org](https://www.acvote.org/election-information/elections?id=251#) - More detail from [SOS](https://www.sos.ca.gov/elections/upcoming-elections/pres-prim-march-2024)
+* First day to mail Voter Information Pamphlets	- January 25, 2024
+* First day of mailing Vote By Mail Ballots and Early Voting - February 5, 2024
+* Close of Registration Period - February 20, 2024
+* Opening and Processing of Vote By Mail Ballots - March 12, 2024 (last day to postmark)
+* Last day to request a Vote By Mail Ballot - February 27, 2024
+* Election Day - March 5, 2024
 
-## November 2022 Voting Guide and Recommendations
-More research/updates done. Initial info from [Ballotpedia](https://ballotpedia.org/). More info from [Voter's Edge Calfornia](votersedge.org/ca).
+## Notes and Recommendations
+Information and recommendations and general guides sparse this election. Not sure why. I did get a Labor (Alameda Labor Council AFL-CIO) mailer, but aside from that, just got spammed about single measures and single candidates. Berkeley Mayor seems to be running a smear campaign against at least one opponent, classy.
+
+### Party: Democratic
+If you're a Republican, g-d help you. But I wouldn't vote for him.
+
+### President of the US
+* Presidential Preference: ✔️ Joseph R. Biden Jr.<br />Very much holding my nose here. He's a pro-genocide fucker, but better than the GPO's feral candidate who wants to end voting. Barely.
+
+### Democratic Central Committee, 14th Assembly District
+Going with the [Climate Labor Progressives'](https://www.climatelaborprogressives.com/) slate, per [The Berkeley Scanner](https://www.berkeleyscanner.com/2024/02/02/deep-dives/2024-election-guide-berkeley-alameda-county/).
+* ✔️ Michael Barnett
+* ✔️ Wendy Bloom
+* ✔️ Julie Caskey
+* ✔️ Elizabeth Echols
+* ✔️ Sarah Price
+* ✔️ Igor Tregub
+* ✔️ Ana Vasudeo 
 
 ### Federal
-* House California District 12: :heavy_check_mark: **Barbara Lee** (incumbent, Democrat)<br />Endorsed by: CTA & CFT (teachers), Farmworkers, Laborers, CNA (nurses)
-* Senate California: :heavy_check_mark: **Alex Padilla** (incumbent, Democrat)<br />Endorsed by: Farmworkers, LiUNA, IATSE (theater), NNU & CNA (nurses), CFT (teachers)
+#### United States Senator, Full Term
+* ✔️ Barbara Lee<br />One of the first to demand cease fire in Palestine. Yes, I'm willing to make this a single issue vote.
+
+#### United Sates Senator, Partial Term
+* ✔️ Barbara Lee<br />She's also served in Congress since 1998.
+
+#### Congress
+* District 12: ✔️ Lateefah Simon
 
 ### California
-* Governor: :heavy_check_mark: **Gavin Newsom** (incumbent, Democrat)<br />Endorsed by: CTA & CFT (teachers), Labor, some voters, but also took Doordash, Dreamworks, & AirBNB, but at least he's not Republican! (I'm not pleased but he's better than the alternative).
-* Lt. Governor: :heavy_check_mark: **Eleni Kounalakis** (incumbent, Democrat)<br />Endorsed by: CTA (teachers), SEI (service), CLF (labor). Her contributors are quite a bit better than Newsome's. Still, better than a republican.
-* AG: :heavy_check_mark: **Rob Bonta** (incumbent, Democrat)<br />Endorsed by: CLF (labor), CTA & CFT (teachers), SEI (service), CNA (nurses). Campaign money from PACs, businesses, trade unions, incl lots of SEIU chapters.
-* Sec of State: :heavy_check_mark: **Shirley Weber** (incumbent, Democrat)<br />Endorsed by: CTA & CFT (teachers), CNA (nurses), SEI (service), CLF (labor). Contributions look okay. 
-* Treasurer: :heavy_check_mark: **Fiona Ma** (incumbent, Democrat)<br />Endorsed by: CTA & CFT (teachers), SEI (service), CLF (labor). Contributions largely from unions, retirees. Red flag: Peace Officers Research Association of California (PORAC) contributor. If ACAB, then what are these folks up to?
-* Controller: :heavy_check_mark: **Malia Cohen** (Democrat)<br />Endorsed by: Planned Parenthood Affiliates of California & NARAL Pro-Choice California PAC (reproductive freedom and services), CTA & CFT (teachers), CNA (nurses), SEI (service), CLF (labor). Contributions largely from labor unions. Good.
-* Superintendent, Public Instruction: :heavy_check_mark: **Tony Thurmond** (incumbent, nonpartisan)<br />Endorsed by: CF (firefighters), Planned Parenthood (reproductive rights), CNA (nurses), CTA & CFT (teachers), SEIU (service), NOTABLY CSEA (school employees). Contributions are smaller donations from many trade unions. Compare to Christensen's endorsements and contributions. Thurmond isn't declare democrat but has democrat endorsements.
-* Commissioner of Insurance: :heavy_check_mark: **Ricardo Lara** (incumbent, Democrat)<br />Endorsed by: Gavin Newsome, Alex Padilla, CTA & CFT (teachers), SEIU (service), CNA (nurses), CLF (labor). Contributions largely from trade unions. Also endorsed by PORAC, the Peace Officers PAC that also supports Fiona Ma.
-* US Senate California (special Election): :heavy_check_mark: **Alex Padilla** (incumbent, Democrat)<br />Endorsed by: Farmworkers, LiUNA, IATSE (theater), NNU & CNA (nurses), CFT (teachers)
-* State Assembly District 14: :heavy_check_mark: **Buffy Wicks** (incumbent, Democrat)<br />Endorsed by: CLF (labor), CNA (nurses), SEIU (service), CTA & CFT (teachers). Contributors: Unions. Reasonable voting record.
-* Board of Equalization, District 2: :heavy_check_mark: **Sally Lieber** (Democrat)<br />Endorsed by: CTA & CFT (teachers), CNA (nurses), SEIU (service), CLF (labor). Contributions look okay, but largely 126k of her own money (private fundraising?).
-* California Supreme Court (Jenkins' seat): :heavy_check_mark: Retain **Martin J. Jenkins** (incumbent)<br />[Out. Gay](https://www.nbcnews.com/feature/nbc-out/california-supreme-court-s-1st-gay-justice-left-nfl-pursue-n1269132). Pink vote.
-* California Supreme Court (Groban's seat): :heavy_check_mark: Retain **Joshua Groban** (incumbent)<br />[Democrat](https://www.courthousenews.com/brown-adviser-joshua-groban-tapped-as-new-california-justice/) by implication.
-* California Supreme Court (Liu's seat): :heavy_check_mark: Retain **Goodwin Liu** (incumbent)<br />Socially liberal, filibustered by Republicans. [LA Times](https://www.latimes.com/local/la-xpm-2011-jul-27-la-me-0727-goodwin-liu-20110727-story.html) (2011).
-* California Supreme Court (Guerrero's seat): :heavy_check_mark: Retain **Patricia Guerrero** (incumbent)<br />[Democrat](https://www.nbcbayarea.com/news/california/patricia-guerrero-california-supreme-court-chief-justice/2974237/).
-* California 1st District Court of Appeal Division 3 (Fujisaki's seat): :heavy_check_mark: Retain **Carin Fujisaki** (incumbent)<br />Does outreach to law schools, talks to students. [Democrat](https://www.lakeconews.com/news/58508-gov-brown-appoints-five-court-of-appeal-justices).
-* California 1st District Court of Appeal Division 3 (Petrou's seat): :heavy_check_mark: Retain **Ioana Petrou** (incumbent)<br />Takes difficult cases and presides over process. Unsure of all her decisions, but seems fair.
-* California 1st District Court of Appeal Division 3 (Jackson's seat): :heavy_check_mark: Retain **Teri L. Jackson** (incumbent)<br />[Democrat](http://cert1.mail-west.com/joJ/myuzjanmc7rmbWy/a2v80mgt81bWgt/qvnqbWqcgkq/n0gz5bhlit81bW/5ggrhu?_c=d%7Cze7pzanwmhlzgt%7C18gvyuo5mt0att5&_ce=1665674798.a7ea761ee6e4a1c644acf1f273bac535).
-* California 1st District Court of Appeal Division 4 (Brown's seat): :heavy_check_mark: Retain **Tracie L. Brown** (incumbent)<br />[Democrat](https://rafu.com/2018/11/governor-appoints-tracie-brown-to-1st-district-court-of-appeal/).
-* California 1st District Court of Appeal Division 5 (Burn's seat): :heavy_check_mark: Retain **Gordon Burns** (incumbent)<br />[Democrat](https://www.lakeconews.com/news/58992-gov-brown-appoints-four-court-of-appeal-justices).
-* California 1st District Court of Appeal Division 3 (Tucher's seat): :heavy_check_mark: Retain **Alison M. Tucher** (incumbent)<br />[Democrat](https://www.lakeconews.com/news/69641-gov-newsom-announces-judicial-appointments).
-* California 1st District Court of Appeal Division 3 (Rodriguez's seat): :heavy_check_mark: Retain **Victor Rodriguez** (incumbent)<br />[Democrat](https://www.gov.ca.gov/2021/09/03/governor-newsom-announces-judicial-appointments-9-3-21/).
-* California 1st District Court of Appeal Division 2 (Stewart's seat): :heavy_check_mark: Retain **Therese M. Stewart** (incumbent)<br />For [Marriage Equality](http://sfappeal.com/2014/07/sf-marriage-equality-attorney-confirmed-to-state-court-of-appeal/).
-* California 1st District Court of Appeal Division 4 (Goldman's seat): :heavy_check_mark: Retain **Jeremy Goldman** (incumbent)<br />Did work against Prop 8, which outlawed marriage rights for same sex couples.
+* 7th State Senate District: :heavy_check_mark: Kathryn Lybarger (object of smear campaign by Jessie Arreguin, who was kind of a weasel as Berkeley Mayor IMHO).
+* 14th State Assembly District: :heavy_check_mark: Buffy Wicks
 
-### Alameda County
-* Board of Supervisors, District 3: :heavy_check_mark: **Rebecca Kaplan**<br />[Pro-tenant](https://eastbayinsiders.substack.com/p/alameda-county-supervisor-hopefuls).
-* DA: :heavy_check_mark: **Pamela Price**<br />Black woman, Civil Rights attorney, endorsed by CNA (nurses) and many others, incl reproductive rights, Angela Davis, etc.
-* AC Transit District Board of Directors: :heavy_check_mark: **Joel Young** (incumbent)
-* A-CC Transit District, Director, At-Large: :heavy_check_mark: **Alfred Twu** (better and more comprehensive and more democratic endorsements)
+### Nonpartisan
+* Superior Court Judge, Office #5: :heavy_check_mark: Terry Wiley
+* Superior Court Judge, Office #12: :heavy_check_mark:
+* Supervisor, 5th District: :heavy_check_mark: Nikki Fortunato Bas
 
-### Berkeley
-* Berkeley Unified School District School Director: 
-  * :one: **Ka'Dijah Brown** (president of board, incumbent - key endorsements, incl (hold nose) Mayor Arreguin, Sen. Skinner, but also BFT (teachers), Latinos Unidos de Berkeley, and school board directors and city councilmembers
-  * :two: **Mike Chang** (U.S. DoEducation Office for Civil Rights, endorsed by Mayor A, Sen Skinner, BFT, Latinos Unidos de Berkeley, and some school board and councilmembers)
-  * :three: **Tatiana Guerreiro Ramos** (special ed, scrappy, no endorsements). 
-  * [More info](https://www.berkeleyside.org/2022/09/27/election-2022-berkeley-school-board-candidates-kadijah-brown-mike-chang-tatiana-guerreiro-ramos-norma-harrison-reichi-lee-jennifer-shanoski).
-* City of Berkeley, Auditor: :heavy_check_mark: **Jenny Wong**<br />Reasonable endorsements, largely democratic or professional.
-* City of Berkeley, Rent Stabilization Board, Commissioner: 
-  * :one: **Soli Alpert** (Pro-tenants)
-  * :two: **Nathan Mizell** (Pro-tenants)
-  * :three: **Vanessa Danielle Marrero** (Pro-tenants, Pro-accessibility, socialist endorsements)
-  * :four: **Negeen Mosaed** (Pro-tenants, anti-gentrification, pro-accessibility)
-  * :five: **Sefan Elgstrand** (white dude, but Pro-tenant)
-  * :x: **NOT** Wendy Saenz Hood, who is not Pro-tenant and argues for "balance".
+### State Measures
+* 1: **Yes**, with reservations. Some campaigners say it just diverts money that is already being used for other mental health services.
 
-### Propositions
-([ref](https://www.sos.ca.gov/administration/news-releases-and-advisories/2022-news-releases-and-advisories/proposition-numbers), [ref2](https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures))
-* 1: Right to Reproductive Freedom Amendment (2022) - :heavy_check_mark: **YES**. <br />The con argument that it will allow abortion at any time is why I support it.
-* 26: Legalize Sports Betting on American Indian Lands Initiative (2022) - :heavy_check_mark: **YES**. <br />Of the two similar Proposals, this one is supported by more, smaller tribes (in coalition) that don't have casinos of their own, and would work against big, out-of-state investors.
-* 27: Legalize Sports Betting and Revenue for Homelessness Prevention Fund Initiative (2022) - :x: **NO**. <br />Lots of big ad dollars for this, only a few big tribes and lots of out of state money to promote it.
-* 28: Art and Music K-12 Education Funding Initiative (2022) - :heavy_check_mark: **YES**. <br />Arts and music education is vital to our culture, literacy, and democracy.
-* 29: Dialysis Clinic Requirements Initiative (2022) - :x: **NO**. <br />DaVita funded $52M of the $86M funding against. Asking around. But the marketing is similar to how Uber and Door Dash pushed the gig economy proposition in California in previous elections. The commercial features "dialysis patients" but you can't find that in the fundraising. That said, I spoke with a friend who's a dialysis patient, and he says vote NO, so NO it is.
-* 30: Tax on Income Above $2 Million for Zero Emissions Vehicles and Wildfire Prevention Initiative (2022) - :heavy_check_mark: **YES**. <br />Almost always vote pro-climate. And tax/eat the rich. I honestly don't care if it drives people away. If they don't want to pay taxes, they shouldn't live here and probably aren't contributing as much as they say they are.
-* 31: Flavored Tobacco Products Ban Referendum (2022) - :heavy_check_mark: **YES**. <br />Flavored tobacco is the tobacco industry's newest ploy to market to kids. Tobacco causes cancer. Cancer sucks. Have them sell their death product where the government doesn't care about its people.
+### County Measures
+* A: **Yes**, I am for making government and civil service processes faster, to a point, at least. 14 days seems sufficient.
+* B: **Yes**, opponents listed on the ballot concern me.
 
-### Measures
-* Alameda County Measure D: Floor Area Ratio Measure (November 2022) - :heavy_check_mark: **YES**.
-* Berkeley Measure L: Housing and Infrastructure Bond Measure (November 2022) - :heavy_check_mark: **YES**. <br />Always vote YES on bond measures for Berkeley.
-* Berkeley Measure M: Vacant Residential Property Tax Measure (November 2022) - :heavy_check_mark: **YES**. <br />Increase incentives for landlords to make housing more available, and reduce housing stock for AirBnB and other short-stay rental properties.
-* Berkeley Measure N: Low-Rent Housing Measure (November 2022) - :heavy_check_mark: **YES**. <br />Low rent housing, please!
+### School Measure
+* H: **Yes**, I even have a front yard sign! I'm a tax-and-spend Democrat, happy to pay my share of taxes for good social programs, including education.
 
 ## Other Resources and Voting Guides
-{:.wrapped-list}
 * [Official Election Site of Alameda County, California](https://www.acvote.org/index)
-
-maps of [US House](https://en.wikipedia.org/wiki/List_of_United_States_congressional_districts), [Final Approved Maps from WeDrawTheLinesCA](https://www.wedrawthelinesca.org/final_maps)
+* [Use this search engine!](https://duckduckgo.com/?q=labor+endorsements+afl-cio+march+5%252C+2024+alameda+county)
 
 ## Mal's Previous Voting Research/Guides
 - [2016 Voting Research](https://docs.google.com/spreadsheets/d/1LOuSrzRurlJOuz2H0Wxok_iJbcvRVOI-leJ8yw8igiI/edit?usp=sharing)
