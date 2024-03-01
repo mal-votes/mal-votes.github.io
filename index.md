@@ -46,7 +46,7 @@ Going with the [Climate Labor Progressives'](https://www.climatelaborprogressive
 
 ### Nonpartisan
 * Superior Court Judge, Office #5: :heavy_check_mark: Terry Wiley
-* Superior Court Judge, Office #12: :heavy_check_mark:
+* Superior Court Judge, Office #12: I asked a friend about this one - they each have sort of obvious pluses and minuses in terms of experience and role, weird endorsements splits. Not sure about this one.
 * Supervisor, 5th District: :heavy_check_mark: Nikki Fortunato Bas
 
 ### State Measures
