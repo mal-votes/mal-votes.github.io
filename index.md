@@ -69,7 +69,7 @@ Going with the [Climate Labor Progressives'](https://www.climatelaborprogressive
 - [Nov 2020 Guide](https://mal-votes.github.io/2020-11/)
 - [Jun 2022 Guide](https://mal-votes.github.io/2022-06/)
 - [Nov 2022 Guide](https://mal-votes.github.io/2022-11/)
-- [Mar 2024 Guide](https://mal-votes.github.io/202403/)
+- [Mar 2024 Guide](https://mal-votes.github.io/2024-03/)
 
 ## Page Metadata
 - Attribution:<br />The structure and most of the information in this guide is copied from [Yar](https://github.com/yar-votes) and [Yar's Guide](https://yar-votes.github.io/). Voting advice is from my research and opinion, though if I'm reusing Yar's advice, I've tried to be careful to quote.
