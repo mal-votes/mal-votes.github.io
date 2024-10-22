@@ -1,67 +1,118 @@
 # Main Voting Guide page
-## March 2024, Berkeley, California (Alameda County)
-This is a voting guide Mal compiled for the March 2024 election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
+## November 2024, Berkeley, California (Alameda County)
+This is a voting guide Mal compiled for the November 2024 US General election for interested friends and family, with a lot of the style and info forked from [Yar's Guide](https://yar-votes.github.io/). But opinions are Mal's own.
 
 ## Voting Information
-From [acvote.org](https://www.acvote.org/election-information/elections?id=251#) - More detail from [SOS](https://www.sos.ca.gov/elections/upcoming-elections/pres-prim-march-2024)
-* First day to mail Voter Information Pamphlets	- January 25, 2024
-* First day of mailing Vote By Mail Ballots and Early Voting - February 5, 2024
-* Close of Registration Period - February 20, 2024
-* Opening and Processing of Vote By Mail Ballots - March 12, 2024 (last day to postmark)
-* Last day to request a Vote By Mail Ballot - February 27, 2024
-* Election Day - March 5, 2024
-
-## Notes and Recommendations
-Information and recommendations and general guides sparse this election. Not sure why. I did get a Labor (Alameda Labor Council AFL-CIO) mailer, but aside from that, just got spammed about single measures and single candidates. Berkeley Mayor seems to be running a smear campaign against at least one opponent, classy.
+From [acvote.org]([https://www.acvote.org/election-information/elections?id=251#](https://acvote.alamedacountyca.gov/election-information/elections?id=252)) - More detail from [SOS](https://www.sos.ca.gov/elections/upcoming-elections/general-election-nov-5-2024))
+* First day to mail Voter Information Pamphlets	- September 26, 2024
+* First day of mailing Vote By Mail Ballots and Early Voting - October 7, 2024
+* Close of Registration Period - November 5, 2024
+* Opening and Processing of Vote By Mail Ballots - October 21, 2024
+* Recommended day to postmark and send Mail-in Ballots - October 31, 2024
+* Last day to postmark Mail-in Ballots - November 5, 2024
+* Last day to receive Mail-in Ballots - Novedmber 12, 2024
+* Last day to request a Vote By Mail Ballot - November 5, 2024
+* Election Day - November 5, 2024
 
 ### Party: Democratic
-If you're a Republican, g-d help you. But I wouldn't vote for him.
+If you're a Republican, g-d help you. But I wouldn't vote for him. (Evergreen remarrk here.)<br />
+<br />
+In general you'll see me vote democrat, green, socialist, or independent. I tend to vote/believe in tax-and-spend democrat ways. If I had my ideal, I would be able to practice outright socialism.<br />
 
 ### President of the US
-* Presidential Preference: ✔️ Joseph R. Biden Jr.<br />Very much holding my nose here. He's a pro-genocide fucker, but better than the GPO's feral candidate who wants to end voting. Barely.
-
-### Democratic Central Committee, 14th Assembly District
-Going with the [Climate Labor Progressives'](https://www.climatelaborprogressives.com/) slate, per [The Berkeley Scanner](https://www.berkeleyscanner.com/2024/02/02/deep-dives/2024-election-guide-berkeley-alameda-county/).
-* ✔️ Michael Barnett
-* ✔️ Wendy Bloom
-* ✔️ Julie Caskey
-* ✔️ Elizabeth Echols
-* ✔️ Sarah Price
-* ✔️ Igor Tregub
-* ✔️ Ana Vasudeo 
+* Presidential Preference: ✔️ Kamala Harris<br />Very much holding my nose here. She's promised to continue supporting genocide in Gaza, but better than the GOP's feral candidate who wants to end voting. I feel like I otherwise agree or can tolerate her policies. Part of it is because I feel like I understand her a little better than I did Biden, but parasocial relationships have led us down some bad roads before. She won't end voting though, or further dismantle already in-peril social services that I and my loved ones rely on or will rely on, so still better than the other guy. And if the other guy wins, god help me. I guess we'll see if I survive. Though I've survived this shit before.<br />
 
 ### Federal
-#### United States Senator, Full Term
-* ✔️ Barbara Lee<br />One of the first to demand cease fire in Palestine. Yes, I'm willing to make this a single issue vote.
-
-#### United Sates Senator, Partial Term
-* ✔️ Barbara Lee<br />She's also served in Congress since 1998.
-
-#### Congress
-* District 12: ✔️ Lateefah Simon
+#### United States Senator
+Full Term Senator: ✔️ Adam Schiff, Democrat. Not much else to recommend him.<br />
+<br />
+Partial Term Senator: ✔️ Adam Schiff, Democrat. Not much else to recommend him.<br />
+<br />
+#### United States Representatives
+12th Congressional District: ✔️ Lateefah Simon. Widely endorsed. <br />
+<br />
 
 ### California
-* 7th State Senate District: :heavy_check_mark: Kathryn Lybarger (object of smear campaign by Jessie Arreguin, who was kind of a weasel as Berkeley Mayor IMHO).
-* 14th State Assembly District: :heavy_check_mark: Buffy Wicks
+#### State Senator:
+7th State Senate District: ✔️ Jovanka Beckles. I personally found Arreguin to be a pro-police toadie during his mayoral role.
 
-### Nonpartisan
-* Superior Court Judge, Office #5: :heavy_check_mark: Terry Wiley
-* Superior Court Judge, Office #12: I asked a friend about this one - they each have sort of obvious pluses and minuses in terms of experience and role, weird endorsements splits. Not sure about this one.
-* Supervisor, 5th District: :heavy_check_mark: Nikki Fortunato Bas
+#### Member of the State Assembly
+14th Assembly District: ✔️ Margot Smith. Buffy Wicks was okay but not ideal in her voting record.<br />
+<br />
 
-### State Measures
-* 1: **Yes**, with reservations. Some campaigners say it just diverts money that is already being used for other mental health services.
+### Alameda County
+Supervisor, 5th District: ✔️ Nikki Fortunato Bas<br />
+<br />
+District Attorney Recall: ✔️ NO!<br />
+<br />
 
-### County Measures
-* A: **Yes**, I am for making government and civil service processes faster, to a point, at least. 14 days seems sufficient.
-* B: **Yes**, opponents listed on the ballot concern me.
+### City of Berkeley
+For Rent Stabilization Board Commissioners: Dominique Walker, Xavier Johnson, Alfred Twu, & Carole Marasovic.<br />
+<br />
+For School Directors: Laura Babitt & Jen Corn.<br />
+<br />
+For Mayor (Ranked): Adena Ishii, then Kate Harrison, then Sophie Hahn.<br />
+<br />
+For Member of City Council, District 3: Deborah Matthews, then Ben Bartlett.<br />
+<br />
 
-### School Measure
-* H: **Yes**, I even have a front yard sign! I'm a tax-and-spend Democrat, happy to pay my share of taxes for good social programs, including education.
+### Measures
+#### State
+2: ✔️ Yes. Schools.<br />
+<br />
+3: ✔️ Yes. Marriage equality.<br />
+<br />
+4: ✔️ Yes. I tend to vote yes for Bonds.<br />
+<br />
+5: ✔️ Yes. Bonds for affordable housing.<br />
+<br />
+6: ✔️ Yes. Abolish Slavery for incarcerated people. Duh.<br />
+<br />
+32: ✔️ Yes. Raise minimum wage.<br />
+<br />
+33: ✔️ Yes. More rent control.<br />
+<br />
+34: ✔️ No. Fixes nothing.<br />
+<br />
+35: ✔️ Yes. Keep on funding Medi-Cal.<br />
+<br />
+36: ✔️ No. No to prisons.<br />
+<br />
+
+#### City of Berkeley
+W: ✔️ Yes. A record of homelessneses prevention from these kinds of measures in the past.<br />
+<br />
+X: ✔️ Yes. Libraries. No opposition.<br />
+<br />
+Y: ✔️ Yes. Parks. No opposition.<br />
+<br />
+Z: ✔️ No. More expensive groceries unfairly impacts economically disadvantaged.<br />
+<br />
+AA: ✔️ Yes. Obvious.<br />
+<br />
+BB: ✔️ Yes. Whiny landlords.<br />
+<br />
+CC: ✔️ No. Either BB or CC.<br />
+<br />
+DD: ✔️ Yes. Animals.<br />
+<br />
+EE: ✔️ Yes. Tax and spend.<br />
+<br />
+FF: ✔️ Yes. Tax and spend.<br />
+<br />
+GG: ✔️ Yes. Funds generated could provide us useful grants. It's not like the big businesses saying vote no would help us rebuild our natural gas lines.<br />
+<br />
+HH: ✔️ Yes. Fight climate change, wildfires, etc.<br />
+<br />
+<br />
 
 ## Other Resources and Voting Guides
 * [Official Election Site of Alameda County, California](https://www.acvote.org/index)
 * [Use this search engine!](https://duckduckgo.com/?q=labor+endorsements+afl-cio+march+5%252C+2024+alameda+county)
+* [League of Women Votes - Berkeley Albany Emeryville - Measures](https://www.lwvbae.org/league-news/berkeley-measures-pros-cons/)
+* [Yar's voting guide](https://yar-votes.github.io/2024-11/)
+  ** See Yar's for tons more guides and endorsements by other groups.
+* [Susan Wengraf](https://myemail.constantcontact.com/Susan-s-Ballot-Recommendations-Correction.html?soid=1141945391430&aid=4DeXFDWEK7w) - Mostly as counterpoint.
 
 ## Mal's Previous Voting Research/Guides
 - [2016 Voting Research](https://docs.google.com/spreadsheets/d/1LOuSrzRurlJOuz2H0Wxok_iJbcvRVOI-leJ8yw8igiI/edit?usp=sharing)
