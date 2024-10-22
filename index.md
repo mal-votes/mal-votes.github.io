@@ -111,7 +111,7 @@ HH: ✔️ Yes. Fight climate change, wildfires, etc.<br />
 * [Use this search engine!](https://duckduckgo.com/?q=labor+endorsements+afl-cio+march+5%252C+2024+alameda+county)
 * [League of Women Votes - Berkeley Albany Emeryville - Measures](https://www.lwvbae.org/league-news/berkeley-measures-pros-cons/)
 * [Yar's voting guide](https://yar-votes.github.io/2024-11/)
-** See Yar's for tons more guides and endorsements by other groups.
+  * See Yar's for tons more guides and endorsements by other groups.
 * [Susan Wengraf](https://myemail.constantcontact.com/Susan-s-Ballot-Recommendations-Correction.html?soid=1141945391430&aid=4DeXFDWEK7w) - Mostly as counterpoint.
 
 ## Mal's Previous Voting Research/Guides
